@@ -1,0 +1,15 @@
+{
+    "token":"NzE4MjU0ODYyMTU2MTY5MjM2.XuZp-A.-1wnZznoPr78Vi-tlY0UcGFlbpg",
+    "prefix":"l!",
+    "YOUTUBE_API_KEY":"AIzaSyCsMpq_uNZitGTVivvuyDbCo0yQvOR1sik",
+"MAX_PLAYLIST_SIZE": 10,
+    "PRUNING": false,
+    "embed":{
+        "color":"#FF69B4",
+        "footer":"Made By KeemROH | Make sure to add me to your server!"
+    },
+    "administrators":[
+        "685506829228179515",
+        "686998287647113302"
+    ]
+}
