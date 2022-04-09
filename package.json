@@ -23,7 +23,7 @@
     "snekfetch": "^4.0.4",
     "pornsearch": "^2.4.3",
     "ytdl-core": "^3.1.1",
-    "moment": "^2.26.0",
+    "moment": "^2.29.2",
     "moment-duration-format": "^2.2.2",
     "ytdl-core-discord": "^1.2.0",
     "simple-youtube-api": "^5.2.1",
