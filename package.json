@@ -18,7 +18,7 @@
     "ms": "^2.1.2",
     "canvas-constructor": "^3.2.0",
     "canvas": "^2.6.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "superagent": "^5.2.2",
     "snekfetch": "^4.0.4",
     "pornsearch": "^2.4.3",
