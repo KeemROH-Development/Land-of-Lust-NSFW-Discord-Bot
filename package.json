@@ -10,7 +10,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "discord.js": "^12.2.0",
     "fs": "^0.0.2",
     "firebase": "^7.15.1",
