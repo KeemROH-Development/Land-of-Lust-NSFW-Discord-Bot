@@ -14,7 +14,7 @@
     "discord.js": "^12.2.0",
     "fs": "^0.0.2",
     "firebase": "^7.15.1",
-    "firebase-admin": "^8.12.1",
+    "firebase-admin": "^11.4.1",
     "ms": "^2.1.2",
     "canvas-constructor": "^3.2.0",
     "canvas": "^2.6.1",
